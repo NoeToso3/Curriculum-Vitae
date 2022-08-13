@@ -1,0 +1,11 @@
+     Perro=["13", "Puppy", "12/12/2012", "Macho", "123"]
+#indice = [0     ,    1            ,             2,              3                , 4] 
+For x in range (len(perro)):
+         If Perro [x] ==  “12/12/2012”
+              Perro [x] = “13/12/2012”
+
+For x in range (len(perro)):
+         If Perro [x] ==  “123”
+              Perro [x] = “28957346”
+
+ Print (perro)
